@@ -1,0 +1,16 @@
+token:
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiUGF2ZWwiLCJlbWFpbCI6InAudi5zdW50c292QGdtYWlsLmNvbSJ9.lVSqKm-GuVsDzo4Q3AzrAEGoQS90gI8PhQUyLVKMC9k
+
+link to token:
+https://jwt.io/#debugger-io?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiUGF2ZWwiLCJlbWFpbCI6InAudi5zdW50c292QGdtYWlsLmNvbSJ9.lVSqKm-GuVsDzo4Q3AzrAEGoQS90gI8PhQUyLVKMC9k
+
+secret:
+secret
+
+Приложение работает согласно ТЗ, все енд-поинты (кроме exit) отрабатывают только при наличии токена.
+Документация OpenApi Swagger в виде ямла и джейсона расположены в корне приложения.
+
+
+Павел Владимирович Сунцов
+p.v.suntsov@gmail.com
++79213602241
